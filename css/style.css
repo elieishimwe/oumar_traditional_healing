@@ -207,13 +207,13 @@ nav.navbar.navbar-default {
 /*-- //header --*/
 /*-- banner --*/
 .banner{
-	background:url(../images/banner.jpg) no-repeat 0px 0px;
+	background:url(../images/banner4.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-	min-height:700px;
+	min-height:950px;
 	position: relative;
 	text-align: center;
 	padding: 10em 0 0;
@@ -225,7 +225,7 @@ nav.navbar.navbar-default {
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-	min-height:300px;
+	min-height:700px;
 	text-align: center;
 }
 .banner h2{

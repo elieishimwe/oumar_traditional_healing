@@ -369,7 +369,7 @@ a.w3ls_banner_more:hover{
 }
 /*-- //banner --*/
 /*-- banner-bottom --*/
-.banner-bottom,.news,.services,.services-bottom,.features{
+.news,.services,.services-bottom,.features{
 	padding:5em 0;
 }
 .w3l_banner_bottom_left h3,.agile_head,.wthree_stat_left h3{
@@ -1065,7 +1065,7 @@ button.close {
 }
 .wthree_about_grid h3 span{
 	color: #fff;
-	background: #f62b2b;
+	background: #0a9dbd;
     text-transform: uppercase;
     font-weight: 600;
 	display:inline-block;
